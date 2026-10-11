@@ -2,7 +2,7 @@
 
 <!-- 动态打字效果 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20FallSun;%E6%AD%A3%E5%9C%A8%E5%AD%A6%20Go%E3%80%81Web%20%E5%92%8C%20Python;%E5%96%9C%E6%AC%A2%E6%8A%8A%E6%83%B3%E6%B3%95%E5%81%9A%E6%88%90%E8%83%BD%E7%94%A8%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E6%88%91%E7%9A%84%E4%BB%93%E5%BA%93%E9%80%9B%E9%80%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20FallSun;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E6%88%91%E7%9A%84%E4%BB%93%E5%BA%93%E9%80%9B%E9%80%9B;%E6%AD%A3%E5%9C%A8%E5%8A%AA%E5%8A%9B%E5%AD%A6%E4%B9%A0%E4%B8%AD..." alt="Typing SVG" />
 </a>
 
 <!-- 个性签名 -->
@@ -28,6 +28,7 @@
 <div align="center">
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -55,31 +56,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ah233332&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&card_width=440" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ah233332&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github&card_width=440" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ah233332&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&card_width=440" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ah233332&layout=compact&langs_count=6&hide_border=true&theme=github_dark&card_width=360" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ah233332&layout=compact&langs_count=6&hide_border=true&theme=github&card_width=360" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah233332&layout=compact&langs_count=6&hide_border=true&theme=github_dark&card_width=360" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ah233332&hide_border=true&theme=github-dark-blue" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ah233332&hide_border=true&theme=github-light" />
-  <img alt="Streak Stats" src="https://streak-stats.demolab.com?user=ah233332&hide_border=true&theme=github-light" />
-</picture>
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -92,36 +68,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ah233332/ah233332/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ah233332/ah233332/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ah233332&theme=github-compact&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ah233332&theme=github&hide_border=true&area=true" />
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ah233332&theme=github&hide_border=true&area=true" />
-</picture>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ah233332&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ah233332&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" />
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ah233332&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" />
-  </picture>
-</a>
 
 </div>
 
