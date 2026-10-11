@@ -2,7 +2,7 @@
 
 <!-- 动态打字效果 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20FallSun;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E6%88%91%E7%9A%84%E4%BB%93%E5%BA%93%E9%80%9B%E9%80%9B;%E6%AD%A3%E5%9C%A8%E5%8A%AA%E5%8A%9B%E5%AD%A6%E4%B9%A0%E4%B8%AD..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hello,%20I'm%20FallSun;Welcome%20to%20my%20GitHub;Still%20learning,%20still%20building..." alt="Typing SVG" />
 </a>
 
 <!-- 个性签名 -->
