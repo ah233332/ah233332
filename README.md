@@ -19,7 +19,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 SHZU 大二在读
+- 🎓 Sophomore at SHZU
+- 🌱 正在学 **Go**、**Web** 和 **Python**
+- 💬 QQ：`1283297886` 欢迎交流学习
 
 ---
 
