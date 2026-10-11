@@ -6,7 +6,7 @@
 </a>
 
 <!-- 个性签名 -->
-<p><i>从基础开始学全栈，把每一步都留下来。</i></p>
+<p><i>迷茫不会因为你多想一个小时而变清楚，只会因为你做完一个东西而变小一点。</i></p>
 
 <!-- 社交入口 -->
 <a href="https://github.com/ah233332">
@@ -19,12 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 在读学生，正在把编程基础打牢
-- 🧭 三条线并行：Go 练习、Web 前端、Python 小工具
-- 🔨 喜欢把想法做成真的能跑起来的东西
-- 📝 学过的、踩过的坑，都尽量写进仓库里
-
-<!-- 想补「学校 / 方向 / 城市 / 兴趣」，直接往上面的列表里加一条 -->
+- 🎓 SHZU 大二在读
 
 ---
 
@@ -47,11 +42,7 @@
 ---
 
 ## 🌱 最近在做
-
-- 🐸 **奶蛙桌宠** —— Python + tkinter 写的像素桌宠，能拖动、点它会有反应、会自己眨眼睡觉
-- 📘 **Go 练习册** —— 从基础语法到标准库，一个练习一个包，边写边记
-- 🌐 **手写静态页面** —— 不用框架，HTML / CSS / JS 一点点搭页面
-
+- 📘 **Go** ——正在做一个海量高并发通讯系统 
 ---
 
 ## 📌 Featured Projects
@@ -60,19 +51,9 @@
 
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
-| 📘 [GoStudy](https://github.com/ah233332/GoStudy) | Go 学习练习：基础语法、标准库、小项目 | Go |
-| 🗂️ [Code-github](https://github.com/ah233332/Code-github) | 早期练习项目的快照备份仓库 | Python, Web |
+| 📘 [GoStudy](https://github.com/ah233332/GoStudy) | Go 学习练习：基础语法、标准库、项目 | Go |
 
 </div>
-
-<!--
-  还没上传的项目，等建好仓库后把链接补到上面表格里：
-  - 奶蛙桌宠  milkfrog-pet     https://github.com/ah233332/milkfrog-pet
-  - 手写网页  web              https://github.com/ah233332/web
-  - 课程习题  python           https://github.com/ah233332/python
--->
-
----
 
 ## 📊 GitHub Stats
 
