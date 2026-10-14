@@ -55,6 +55,7 @@
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
 | 📘 [GoStudy](https://github.com/ah233332/GoStudy) | Go 学习练习：基础语法、标准库、项目 | Go |
+| 🛠️ [TalkCase](https://github.com/ah233332/TalkCase) | 海量用户通讯系统 | Go |
 
 </div>
 
