@@ -80,6 +80,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=ah233332&color=blue&style=flat-square" alt="Profile views" />
 
-**慢慢来，比较快。**
+**学无止境，愿热情常在。**
 
 </div>
